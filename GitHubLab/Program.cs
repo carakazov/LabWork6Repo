@@ -6,7 +6,7 @@ namespace GitHubLab
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello from first branch");
+            Console.WriteLine("Hello from second branch");
         }
     }
 }
